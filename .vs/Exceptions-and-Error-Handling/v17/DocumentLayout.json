@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7026B44F-FF45-4718-A692-107D3E3369B7}|P03-Sum-of-Integers\\P03-Sum-of-Integers.csproj|c:\\users\\pc\\source\\repos\\exceptions-and-error-handling\\p03-sum-of-integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7026B44F-FF45-4718-A692-107D3E3369B7}|P03-Sum-of-Integers\\P03-Sum-of-Integers.csproj|solutionrelative:p03-sum-of-integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C803376E-0485-42CD-9F80-1B4DEF0CEFA3}|P02-Enter-Numbers\\P02-Enter-Numbers.csproj|c:\\users\\pc\\source\\repos\\exceptions-and-error-handling\\p02-enter-numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C803376E-0485-42CD-9F80-1B4DEF0CEFA3}|P02-Enter-Numbers\\P02-Enter-Numbers.csproj|solutionrelative:p02-enter-numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B94CEB-9345-49B0-B940-9A1BDB340C18}|P01.1-Square-Root\\P01.1-Square-Root.csproj|c:\\users\\pc\\source\\repos\\exceptions-and-error-handling\\p01.1-square-root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B94CEB-9345-49B0-B940-9A1BDB340C18}|P01.1-Square-Root\\P01.1-Square-Root.csproj|solutionrelative:p01.1-square-root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF31160B-EBCC-4617-ACEA-559E3AA3B035}|P01-Square-Root\\P01-Square-Root.csproj|c:\\users\\pc\\source\\repos\\exceptions-and-error-handling\\p01-square-root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF31160B-EBCC-4617-ACEA-559E3AA3B035}|P01-Square-Root\\P01-Square-Root.csproj|solutionrelative:p01-square-root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P03-Sum-of-Integers\\Program.cs",
+              "RelativeDocumentMoniker": "P03-Sum-of-Integers\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P03-Sum-of-Integers\\Program.cs",
+              "RelativeToolTip": "P03-Sum-of-Integers\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:50:24.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P02-Enter-Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "P02-Enter-Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P02-Enter-Numbers\\Program.cs",
+              "RelativeToolTip": "P02-Enter-Numbers\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:28:04.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P01.1-Square-Root\\Program.cs",
+              "RelativeDocumentMoniker": "P01.1-Square-Root\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P01.1-Square-Root\\Program.cs",
+              "RelativeToolTip": "P01.1-Square-Root\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:11:30.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P01-Square-Root\\Program.cs",
+              "RelativeDocumentMoniker": "P01-Square-Root\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P01-Square-Root\\Program.cs",
+              "RelativeToolTip": "P01-Square-Root\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:14:48.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

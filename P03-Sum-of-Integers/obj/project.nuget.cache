@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8iOEs78hMuupc+aYaS/6haerZvaK11nP3871G/Gph2pfgcfGPQ2Ufw3i6zSmMxR3fDRaIfmhObksDE/OH083zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P03-Sum-of-Integers\\P03-Sum-of-Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

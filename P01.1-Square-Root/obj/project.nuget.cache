@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "piDg53mi92TTg1xv4asFnldA3Aq2ixR2auTyAmFlwqZkc+kFqkpWPFVzUY1EF1DsZdiHuVH+g39ys9o2AL4ZJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Exceptions-and-Error-Handling\\P01.1-Square-Root\\P01.1-Square-Root.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

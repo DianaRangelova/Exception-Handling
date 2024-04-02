@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\bin\Debug\net6.0\P01-Square-Root.exe
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\bin\Debug\net6.0\P01-Square-Root.deps.json
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\bin\Debug\net6.0\P01-Square-Root.runtimeconfig.json
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\bin\Debug\net6.0\P01-Square-Root.dll
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\bin\Debug\net6.0\P01-Square-Root.pdb
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\P01-Square-Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\P01-Square-Root.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\P01-Square-Root.AssemblyInfo.cs
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\P01-Square-Root.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\P01-Square-Root.dll
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\refint\P01-Square-Root.dll
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\P01-Square-Root.pdb
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\P01-Square-Root.genruntimeconfig.cache
+C:\Users\PC\source\repos\Exceptions-and-Error-Handling\P01-Square-Root\obj\Debug\net6.0\ref\P01-Square-Root.dll
